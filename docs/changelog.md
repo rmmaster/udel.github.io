@@ -4,10 +4,10 @@ V0.1
 - Created the beginning page for the Portfolio
 
 V0.2
-- Added Changelog and TODO
+- Added Changelog and To-Do
 
 
-### TODO
+### To-Do
 - Learn some Bootstrap through the tutorial given
 - Learn the basics of HTML, CSS, and Javascript through the tutorial given
 - Upload proof images of completing installation of VSC and TypeScript
