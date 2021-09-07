@@ -10,3 +10,5 @@ V0.2
 ### TODO
 - Learn some Bootstrap through the tutorial given
 - Learn the basics of HTML, CSS, and Javascript through the tutorial given
+- Upload proof images of completing installation of VSC and TypeScript
+- Learn TypeScript more in-depth
