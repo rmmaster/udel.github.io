@@ -2,6 +2,6 @@
 
 ### **Image proof of installation:**
 
-![VSC Install](/images/hello world.png)
+![VSC Install](/images/hello_world.PNG)
 
-![TypeScript Install](/images/installed typescript and vsc.png)
+![TypeScript Install](/images/installed_typescript_and_vsc.PNG)
