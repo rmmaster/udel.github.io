@@ -6,6 +6,9 @@ The Source Code can be found in the link at the top left. Handy part of the styl
 
 ## Milestone 1:
 
+### **Installations:**
+- [Installation of Visual Studio Code, and TypeScript working in it.](/VSCInstall.md)
+
 ### **GitHub Pages / Portfolio Setup:**
 - To format this page and learn how to create a GitHub page, I used GitHub's Markdown and Pages tutorials
 
