@@ -12,11 +12,11 @@ V0.3 (9/8/2021)
 - Updated the changelog to be more complete and fleshed-out, and added dates
 
 ## To-Do
-- [/]  Learn the basics of HTML, CSS, and Javascript through the tutorial given
-- [ ]  Upload proof images of completing installation of VSC and TypeScript
-- [ ]  Learn TypeScript more in-depth
+- [/] Learn the basics of HTML, CSS, and Javascript through the tutorial given
+- [ ] Upload proof images of completing installation of VSC and TypeScript
+- [ ] Learn TypeScript more in-depth
 
 ### Legend: 
-- [x]  = Complete
-- [/]  = In Progress
-- [ ]  = No Progress 
+- [x] = Complete
+- [/] = In Progress
+- [ ] = No Progress 
