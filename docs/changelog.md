@@ -17,6 +17,8 @@ V0.3 (9/8/2021)
 - [x] Upload proof images of completing installation of VSC and TypeScript
 - [ ] Learn TypeScript more in-depth
 - [/] Make first website more advanced
+- [/] Learn how to make an embedded video in HTML
+- [ ] Learn how to stylize a webpage rather than the crude appearance of the current website
 
 ### Legend: 
 - [x] = Complete
