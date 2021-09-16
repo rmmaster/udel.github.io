@@ -20,3 +20,9 @@ The Source Code can be found in the link at the top left. Handy part of the styl
 - I also looked at Mozilla's HTML guide for further information and guidance
 
 - [Link to first website](/websites/Spectacled.html)
+
+## Milestone 2:
+I have been very busy this week, so I haven't had much time to work on the portfolio besides Tuesday and Thursday. Mostly Thursday.
+
+Sorry for the lesser amount of progress.
+
