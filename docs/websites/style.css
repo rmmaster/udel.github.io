@@ -24,7 +24,7 @@ p {
 a {
     color: lightblue;
 }
-
+/* experimented with anchors and floats to make an image-on-hover link */
 .profile a img {
     visibility: hidden;
     float: left;
@@ -32,7 +32,7 @@ a {
 
 .profile a:hover img{
     visibility: visible;
-    float: left;
+    float: none;
 }
 
 a:hover {

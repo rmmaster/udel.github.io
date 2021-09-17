@@ -18,6 +18,8 @@ V0.3 (9/8/2021)
 V0.4 (9/16/2021)
 - Made my flying fox website dark theme by adding a stylesheet
 - Embedded the video into my website by using YouTube's embed code link system
+- Used my new knowledge on CSS to improve the formatting of my HTML website, centering the text, giving a gradient background, and adding font and font color.
+- Used my knowledge on anchors, images, and floats from the MarkSheet CSS tutorials to experiment and add an anchor that creates a floating image on hovering over the anchor.
 
 ## To-Do (Week 1)
 - [/] Learn the basics of HTML, CSS, and Javascript through the tutorial given
