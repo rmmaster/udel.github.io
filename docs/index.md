@@ -26,7 +26,8 @@ I have been very busy this week, so I haven't had much time to work on the portf
 
 Sorry for the lesser amount of progress. I will catch up over the weekend.
 
-8:50 9/16 
+8:50 9/16:
+
 I'd do some more but I'm feeling very sad right now. I promise I'll catch up over the weekend. Not trying to bargain for a better score, just saying why I haven't done that much.
 
 - I made some changes to that [first website](/websites/Spectacled.html) of mine, notably adding CSS to it in addition to the HTML already present. 
