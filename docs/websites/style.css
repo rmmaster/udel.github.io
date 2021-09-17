@@ -25,6 +25,7 @@ a {
     color: lightblue;
 }
 /* experimented with anchors and floats to make an image-on-hover link */
+/* need to fix positioning */
 .profile a img {
     visibility: hidden;
     float: left;

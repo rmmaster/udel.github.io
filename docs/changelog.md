@@ -15,7 +15,7 @@ V0.3 (9/8/2021)
 - Added a page to show installation of VSC and TypeScript
 
 ### Week 2
-V0.4 (9/16/2021)
+V0.4 (9/14/2021 during lab, and 9/16/2021)
 - Made my flying fox website dark theme by adding a stylesheet
 - Embedded the video into my website by using YouTube's embed code link system
 - Used my new knowledge on CSS to improve the formatting of my HTML website, centering the text, giving a gradient background, and adding font and font color.
@@ -30,11 +30,12 @@ V0.4 (9/16/2021)
 - [ ] Learn how to stylize a webpage rather than the crude appearance of the current website
 
 ## To-Do (Week 2)
-- [/] Learn the basics of HTML, and further advance my website to be a much better animal site
+- [x] Learn the basics of HTML, and further advance my website to be a much better animal site
 - [x] Upload proof images of completing installation of VSC and TypeScript
-- [ ] Learn and use CSS from MarkSheet to make my website prettier, and maybe work on another site in addition
-- [/] Learn how to make an embedded video in HTML to add to my flying fox page
-- [ ] Use MarkSheet's JavaScript tutorial to learn it and make a website that isn't just a display page, perhaps having a small game like tic tac toe
+- [/] Learn and use CSS from MarkSheet to make my website prettier, and maybe work on another site in addition
+- [x] Learn how to make an embedded video in HTML to add to my flying fox page
+- [ ] Use the HTMLDog JavaScript Tutorial to learn it and make a website that isn't just a display page, perhaps having a small game like tic tac toe
+- [ ] Move onto React after learning JavaScript, reading through the reactjs site.
 
 ### Legend: 
 - [x] = Complete
