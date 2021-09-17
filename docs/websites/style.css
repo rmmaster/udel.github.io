@@ -1,11 +1,40 @@
 body { 
-    background: #1f1f1f;
-    
-}
-.text {
+    background: radial-gradient(#1f1f1f,#101010);
     color: #bfbfbf;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    text-align: center;
 }
 
-.link {
-    color: black;
+body h1 {
+    color: white;
+    line-height: 1.2;
+}
+
+body h2 {
+    color: white;
+    line-height: 1.2;
+}
+
+p {
+    font-size: 16px;
+    /* look into how to center a smaller text box*/
+}
+
+a {
+    color: lightblue;
+}
+
+.profile a img {
+    visibility: hidden;
+    float: left;
+}
+
+.profile a:hover img{
+    visibility: visible;
+    float: left;
+}
+
+a:hover {
+    color: grey;
 }

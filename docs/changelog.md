@@ -1,4 +1,6 @@
 ## Changelog
+
+### Week 1
 V0.1 (8/31/2021)
 - Installed programs
 - Created the beginning baselines page for the Portfolio
@@ -11,6 +13,11 @@ V0.3 (9/8/2021)
 - Improved the formatting of the index page, added a progress update to it
 - Updated the changelog to be more complete and fleshed-out, and added dates
 - Added a page to show installation of VSC and TypeScript
+
+### Week 2
+V0.4 (9/16/2021)
+- Made my flying fox website dark theme by adding a stylesheet
+- Embedded the video into my website by using YouTube's embed code link system
 
 ## To-Do (Week 1)
 - [/] Learn the basics of HTML, CSS, and Javascript through the tutorial given
