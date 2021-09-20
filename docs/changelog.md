@@ -21,6 +21,11 @@ V0.4 (9/14/2021 during lab, and 9/16/2021)
 - Used my new knowledge on CSS to improve the formatting of my HTML website, centering the text, giving a gradient background, and adding font and font color.
 - Used my knowledge on anchors, images, and floats from the MarkSheet CSS tutorials to experiment and add an anchor that creates a floating image on hovering over the anchor.
 
+### Week 3
+V0.5 (9/19/2021)
+- Went through Mozilla's introductory code and guide to JavaScript to get familiarized with how some of JavaScript works.
+- Added a link to the main page to show off the page.
+
 ## To-Do 
 
 ### Week 1:
@@ -41,7 +46,8 @@ V0.4 (9/14/2021 during lab, and 9/16/2021)
 
 ### Week 3:
 - [/] Learn and use CSS from MarkSheet to make my website prettier, and maybe work on another site in addition
-- [ ] Use the HTMLDog JavaScript Tutorial to learn it and make a website that isn't just a display page, perhaps having a small game like tic tac toe
+- [/] Use the HTMLDog and/or Mozilla JavaScript Tutorial to learn it 
+- [ ] Use my knowledge on JavaScript to make a website that isn't just a display page, perhaps having a small game like tic tac toe
 - [ ] Move onto React after learning JavaScript, reading through the reactjs site.
 
 ### Legend: 

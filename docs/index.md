@@ -35,3 +35,10 @@ I'd do some more but I'm feeling very sad right now. I promise I'll catch up ove
 - I did some experimentation on what I knew in HTML and CSS and created the image that appears if you hover over the anchor that says "my profile picture on Steam"
 - I got the embedded YouTube video working after remembering YouTube has a button to press to get the embedding code automatically. I was trying to embed the video like an actual video file, not as an online video, that's why it was not working.
 
+## Milestone 3:
+9/19/2021
+
+- I followed along Mozilla's beginning basics to JavaScript tutorial to get familiarized with some simple JavaScript.
+- [The tutorial in question](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Link to the testing website](/websites/MozillaTutorial/index.html)
+- I plan on doing some more tutorials and doing experimenting on my own!
