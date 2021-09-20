@@ -39,6 +39,11 @@ V0.4 (9/14/2021 during lab, and 9/16/2021)
 - [ ] Use the HTMLDog JavaScript Tutorial to learn it and make a website that isn't just a display page, perhaps having a small game like tic tac toe
 - [ ] Move onto React after learning JavaScript, reading through the reactjs site.
 
+### Week 3:
+- [/] Learn and use CSS from MarkSheet to make my website prettier, and maybe work on another site in addition
+- [ ] Use the HTMLDog JavaScript Tutorial to learn it and make a website that isn't just a display page, perhaps having a small game like tic tac toe
+- [ ] Move onto React after learning JavaScript, reading through the reactjs site.
+
 ### Legend: 
 - [x] = Complete
 - [/] = In Progress
