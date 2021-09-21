@@ -28,6 +28,7 @@ V0.5 (9/19/2021)
 
 V0.6 (9/21/2021)
 - Read through the 5-minute tutorial on the TypeScript website, and I understand how it relates to JavaScript, will need to look further into it later
+- Followed the tutorial on reactjs to learn React and create a Tic-Tac-Toe game
 
 ## To-Do 
 
@@ -50,8 +51,10 @@ V0.6 (9/21/2021)
 ### Week 3:
 - [/] Learn and use CSS from MarkSheet to make my website prettier, and maybe work on another site in addition
 - [/] Use the HTMLDog and/or Mozilla JavaScript Tutorial to learn it 
-- [ ] Move onto React after learning JavaScript, reading through the reactjs site
-- [ ] Make at least a base for a trivia website, using everything I know so far, possible even more. 
+- [x] Move onto React after learning JavaScript, reading through the reactjs site
+- [ ] At least attempt the additional challenges at the end of the reactjs tutorial
+- [ ] Learn React Hooks from the reactjs site
+- [ ] Make at least a base for a trivia website, using everything I know so far, and the tutorial the TA provided
 
 ### Legend: 
 - [x] = Complete

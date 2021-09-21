@@ -42,3 +42,9 @@ I'd do some more but I'm feeling very sad right now. I promise I'll catch up ove
 - [The tutorial in question](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [Link to the testing website](/websites/MozillaTutorial/index.html)
 - I plan on doing some more tutorials and doing experimenting on my own!
+
+9/21/2021
+
+- I used reactjs's tutorial for React to learn how to use React and also make a Tic-Tac-Toe game from it
+- [The tutorial in question](https://reactjs.org/tutorial/tutorial.html)
+- [Link to the Tic-Tac-Toe game](/websites/ReactTutorial/tutorial-app/src/index.js)
