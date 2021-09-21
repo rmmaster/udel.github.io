@@ -27,7 +27,7 @@ V0.5 (9/19/2021)
 - Added a link to the main page to show off the page.
 
 V0.6 (9/21/2021)
-- Read through the 5-minute tutorial on the TypeScript website, and I understand how it relates to JavaScript
+- Read through the 5-minute tutorial on the TypeScript website, and I understand how it relates to JavaScript, will need to look further into it later
 
 ## To-Do 
 
