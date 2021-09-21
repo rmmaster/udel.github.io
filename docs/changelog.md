@@ -26,6 +26,9 @@ V0.5 (9/19/2021)
 - Went through Mozilla's introductory code and guide to JavaScript to get familiarized with how some of JavaScript works.
 - Added a link to the main page to show off the page.
 
+V0.6 (9/21/2021)
+- Read through the 5-minute tutorial on the TypeScript website, and I understand how it relates to JavaScript
+
 ## To-Do 
 
 ### Week 1:
@@ -47,8 +50,8 @@ V0.5 (9/19/2021)
 ### Week 3:
 - [/] Learn and use CSS from MarkSheet to make my website prettier, and maybe work on another site in addition
 - [/] Use the HTMLDog and/or Mozilla JavaScript Tutorial to learn it 
-- [ ] Use my knowledge on JavaScript to make a website that isn't just a display page, perhaps having a small game like tic tac toe
-- [ ] Move onto React after learning JavaScript, reading through the reactjs site.
+- [ ] Move onto React after learning JavaScript, reading through the reactjs site
+- [ ] Make at least a base for a trivia website, using everything I know so far, possible even more. 
 
 ### Legend: 
 - [x] = Complete
