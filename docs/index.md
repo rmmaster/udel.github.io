@@ -48,3 +48,8 @@ I'd do some more but I'm feeling very sad right now. I promise I'll catch up ove
 - I used reactjs's tutorial for React to learn how to use React and also make a Tic-Tac-Toe game from it
 - [The tutorial in question](https://reactjs.org/tutorial/tutorial.html)
 - [Link to the Tic-Tac-Toe game](/websites/ReactTutorial/tutorial-app/src/index.js)
+
+9/23/2021
+- Started working on my trivia website by using my TA's recommended tutorial/starter code, so I may build upon it in the future
+- [Quiz Site Tutorial](https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react/)
+- [Link to my site](/websites/QuizSite/src/App.js)

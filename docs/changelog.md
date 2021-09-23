@@ -54,7 +54,7 @@ V0.6 (9/21/2021)
 - [x] Move onto React after learning JavaScript, reading through the reactjs site
 - [ ] At least attempt the additional challenges at the end of the reactjs tutorial
 - [ ] Learn React Hooks from the reactjs site
-- [ ] Make at least a base for a trivia website, using everything I know so far, and the tutorial the TA provided
+- [x] Make at least a base for a trivia website, using everything I know so far, and the tutorial the TA provided
 
 ### Legend: 
 - [x] = Complete
