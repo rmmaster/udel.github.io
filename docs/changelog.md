@@ -30,6 +30,10 @@ V0.6 (9/21/2021)
 - Read through the 5-minute tutorial on the TypeScript website, and I understand how it relates to JavaScript, will need to look further into it later
 - Followed the tutorial on reactjs to learn React and create a Tic-Tac-Toe game
 
+V0.7(9/23/2021)
+- Followed my TA's recommended website to make the framework for a React-based trivia game
+- Added personal features and preferences to it to make it more personalized and start working on my version of it
+
 ## To-Do 
 
 ### Week 1:
@@ -55,6 +59,8 @@ V0.6 (9/21/2021)
 - [ ] At least attempt the additional challenges at the end of the reactjs tutorial
 - [ ] Learn React Hooks from the reactjs site
 - [x] Make at least a base for a trivia website, using everything I know so far, and the tutorial the TA provided
+- [ ] Add custom questions to the trivia bank
+- [/] Personalize the trivia website to be more to my liking
 
 ### Legend: 
 - [x] = Complete

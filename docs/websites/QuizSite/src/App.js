@@ -61,10 +61,27 @@ export default function App() {
 
 	const [score, setScore] = useState(0);
 
+	const isScorePerfect = (score) => {
+		if (score === questions.length) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
 	return (
 		<div className='app'>
 			{showScore ? (
-				<div className='score-section'>You scored {score} out of {questions.length}</div>
+				<div 
+				className='score-section'>You scored {score} out of {questions.length}
+				{isScorePerfect(score) ? (
+					<div className='congratulations'>A perfect score! Great job!</div>
+				) : (
+					<div className='good-try'>Thanks for playing!</div>
+				)
+				
+			}
+				</div>
 			) : (
 				<>
 					<div className='question-section'>
