@@ -32,9 +32,11 @@ body {
 }
 
 .score-section {
-  display: flex;
+  display: block;
   font-size: 24px;
   align-items: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 /* QUESTION/TIMER/LEFT SECTION */

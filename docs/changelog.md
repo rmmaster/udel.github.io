@@ -34,6 +34,10 @@ V0.7(9/23/2021)
 - Followed my TA's recommended website to make the framework for a React-based trivia game
 - Added personal features and preferences to it to make it more personalized and start working on my version of it
 
+### Week 4
+V0.8 (9/28/2021)
+- 
+
 ## To-Do 
 
 ### Week 1:
