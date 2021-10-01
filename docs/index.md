@@ -64,3 +64,4 @@ I'd do some more but I'm feeling very sad right now. I promise I'll catch up ove
 - Finalized the website to be a proper video game trivia website, albeit with only 10 questions
 - Fixed the main menu to work properly and display CISC275 on it
 - [Link to the final site](https://rmmaster.github.io/trivia-site/)
+- [Link to the final site's code](https://github.com/rmmaster/trivia-site/tree/master)
