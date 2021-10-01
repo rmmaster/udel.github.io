@@ -36,7 +36,16 @@ V0.7(9/23/2021)
 
 ### Week 4
 V0.8 (9/28/2021)
-- 
+- Tried to get a main menu working, got some starting code, but it largely does not work
+- Small tweaks otherwise
+
+V1.0 (9/30/2021)
+- Added reasons for why a question was right or wrong to the trivia site
+- Added video game trivia over the default trivia, and increased the question count to 10
+- Customized some formatting and stylization of the site
+- Finished the main menu
+- Put a header saying what game the trivia is from, rather than including it in the question
+- Properly spaced the answers by the number of answers, rather than having a specific set-up for four answers
 
 ## To-Do 
 

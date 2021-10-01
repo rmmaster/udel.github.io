@@ -55,3 +55,12 @@ I'd do some more but I'm feeling very sad right now. I promise I'll catch up ove
 - [Link to my site](/websites/QuizSite/src/App.js)
 
 ## Milestone 4:
+9/28/2021
+- Did improvement work on my trivia website, mainly some more baseline work for further improvements
+- Attempted making a starting menu for the trivia site, but failed so far
+
+9/30/2021
+- Correctly put the site on a github page
+- Finalized the website to be a proper video game trivia website, albeit with only 10 questions
+- Fixed the main menu to work properly and display CISC275 on it
+- [Link to the final site](https://rmmaster.github.io/trivia-site/)
